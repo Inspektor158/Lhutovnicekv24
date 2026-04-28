@@ -1,4 +1,4 @@
-# Lhůtovníček PWA v2.4
+# Lhůtovníček PWA v2.5
 
 PIN: 158158
 
